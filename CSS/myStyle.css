@@ -1,0 +1,45 @@
+h1 {
+text-align: center;
+font-family: "audiowide", Arial, sans-serif !important;
+color: white;
+font-size: 60px;
+}
+
+.responsive {
+width: 100%;
+}
+
+body {
+background: rgb(39, 37, 37) !important;
+}
+
+.countdowns {
+background-color: rgb(65, 53, 87);
+color: white;
+font-family: "audiowide", Arial, sans-serif;
+}
+
+
+#hour{
+text-align: center;
+font-size: 25px;
+}
+
+#min{
+text-align: center;
+font-size: 25px;
+}
+
+#sec{
+text-align: center;
+font-size: 25px;
+}
+
+#milisec{
+  text-align: center;
+  font-size: 25px;
+  }
+
+#divider{
+color: rgb(65, 53, 87);
+}
